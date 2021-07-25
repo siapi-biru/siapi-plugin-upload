@@ -36,9 +36,9 @@
     "react-router-dom": "^5.0.0",
     "reactstrap": "8.4.1",
     "sharp": "0.28.1",
-    "siapi-helper-plugin": "github:siapi-biru/siapi-helper-plugin#v3.6.5",
-    "siapi-provider-upload-local": "github:siapi-biru/siapi-provider-upload-local#v3.6.5",
-    "siapi-utils": "github:siapi-biru/siapi-utils#v3.6.5",
+    "siapi-helper-plugin": "github:siapi-biru/siapi-helper-plugin",
+    "siapi-provider-upload-local": "github:siapi-biru/siapi-provider-upload-local",
+    "siapi-utils": "github:siapi-biru/siapi-utils",
     "stream-to-array": "^2.3.0",
     "uuid": "^3.2.1"
   },
